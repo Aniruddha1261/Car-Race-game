@@ -11,7 +11,7 @@
 - JavaScript
     
 
-    Click [here](https://github.com/Aniruddha1261/Car-Racing/blob/main/page.html) to play the game
+    Click [here](file:///C:/Users/ACER/Desktop/Car-Racing/page.html) to play the game
 ---
 
 ### Screenshot
