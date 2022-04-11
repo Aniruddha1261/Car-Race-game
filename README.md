@@ -10,7 +10,7 @@
 - CSS 
 - JavaScript
     
-    Click [here](https://aniruddha1261.github.io/Car-Racing/) to play the game
+    Click [here](https://github.com/Aniruddha1261/Car-Racing/blob/main/page.html) to play the game
 ---
 
 ### Screenshot
